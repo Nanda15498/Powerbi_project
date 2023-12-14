@@ -2,7 +2,7 @@
 
 Key Learnings derived from the dashboard are:
  
-👉 Import Data in PostgreSQL DB;
+👉 Import Data in MySQL DB;
 👉 Connecting Power BI to Database;
 👉 Data Cleaning & Processing in Power Query Editor;
 👉 Data Modelling among three tables;
